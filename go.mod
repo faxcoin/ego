@@ -1,3 +1,3 @@
-module weird_parser_in_go
+module ego
 
 go 1.13
