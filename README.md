@@ -1,1 +1,2 @@
-# Some Weird Go Compiler Thing
+# EGO
+## *E*ducational *GO* Parser
